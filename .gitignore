@@ -1,0 +1,8 @@
+mats.csv
+606holes30_cone.csg
+606Holes_highp.csv
+DomeModel.h
+*.FCStd
+*.step
+!plaindome30.FCStd
+old/
